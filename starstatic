@@ -1,7 +1,7 @@
 ///You go to your OBS and add a browser source. For xplit, I think website. 
 
 ///Put this URL to the the browser source
-///url: https://www.facebook.com/gaming/streamer/alertlist/?star_alerts=true&share_alerts=false&star_sounds=false
+///url: https://www.facebook.com/gaming/streamer/alertlist/?star_alerts=true&share_alerts=false&charitable_donation_alerts=true&star_sounds=true&supporter_alerts=false&clip_alerts=false
 
 
 ///put this on the css code. Delete all of it and paste this code:
